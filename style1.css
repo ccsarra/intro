@@ -1,0 +1,31 @@
+body {
+	 background-image: url("gree.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+td {
+    color: #000000;
+	text-align: center;
+	font-family: hug me tight;
+	text-shadow: 2px;
+}
+table {
+	border-color: #ffffff;
+	
+}
+th {
+    color: #588157;
+	text-align: center;
+	font-family: hug me tight;
+	text-shadow: 35px;
+}
+li {
+    color: #000000;
+	text-align: center;
+	font-family: hug me tight;
+}
+p {
+	color: #588157;
+	font-family: hug me tight;
+}
+
